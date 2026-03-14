@@ -1,4 +1,4 @@
-# New Horizon University Attendance ERP
+# Dayanand Sagar Academy of Technology and Management
 
 This document explains every feature in plain language and shows how to demo the system end-to-end. It uses mock data with localStorage persistence, so nothing else is required beyond Node and a browser.
 
